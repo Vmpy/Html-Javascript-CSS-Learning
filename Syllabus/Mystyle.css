@@ -4,7 +4,7 @@ body
     font-family:"Microsoft Yahei";
 }
 
-table,tr,td,th
+table,tr,td,th,a
 {
     text-align:center;
     border-style:ridge;
@@ -15,9 +15,12 @@ table,tr,td,th
 
 p.Ex
 {
-    border-style:outset;
+    border-left-style:solid;
     border-width:5px;
-    border-color:green;
+    border-color:#5CACEE;
+    background-color:#E0FFFF;
+    font-family:FangSong;
+    font-size:20px;
 }
 
 a:link{color:#FF4500;}
