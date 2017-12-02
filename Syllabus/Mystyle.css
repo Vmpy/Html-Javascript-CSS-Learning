@@ -8,7 +8,7 @@ table,tr,td,th,a
 {
     text-align:center;
     border-style:ridge;
-    border-width:5px;
+    border-width:3px;
     border-color:green;
     border-collapse:collapse;
 }
