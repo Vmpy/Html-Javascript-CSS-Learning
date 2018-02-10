@@ -1,1 +1,1 @@
-ttps://vmpy.github.io/Html-Javascript-CSS-Learning/Syllabus/
+https://vmpy.github.io/Html-Javascript-CSS-Learning/Syllabus/
